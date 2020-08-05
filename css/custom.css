@@ -1,0 +1,39 @@
+/* custom CSS  */
+
+.200 {
+    font-weight : 200;
+}
+
+.300 {
+    font-weight : 300;
+}
+
+.400 {
+    font-weight : 400;
+}
+
+.500 {
+    font-weight : 500;
+}
+
+.600 {
+    font-weight : 600;
+}
+
+h1{
+    font-weight: lighter;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.stroke {
+    border: thin solid #996699;
+}
+
+.shadow {
+    -webkit-box-shadow: -1px 5px 26px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 5px 26px -6px rgba(0,0,0,0.75);
+box-shadow: -1px 5px 26px -6px rgba(0,0,0,0.75);
+}
